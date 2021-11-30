@@ -18,7 +18,7 @@ This project is a UI automation solution that will test for the subsciption prom
 
   Reference:  Windows - https://www.youtube.com/watch?v=K9U-5aa8VwE&list=PLhW3qG5bs-L8XkBrI-G5aTUo6QwEEoVcj&index=2
 
-#### Run Scripts
+## Run Scripts
 * Clone the project and import to eclipse IDE
 * Open TestRunner.java from src/test/java/runner
 * Right click anywhere in the file and Run As > TestNG Test
