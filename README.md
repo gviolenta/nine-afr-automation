@@ -1,6 +1,7 @@
 # nine-afr-automation
 
 This project is a UI automation solution that will test for the subsciption prompt on an AFR page.
+The test scenarios will run successfully on chromedriver.
 
 ## To Get Started
 
@@ -20,6 +21,7 @@ This project is a UI automation solution that will test for the subsciption prom
    Reference:  Windows - https://www.youtube.com/watch?v=K9U-5aa8VwE&list=PLhW3qG5bs-L8XkBrI-G5aTUo6QwEEoVcj&index=2
    
 4. Download chromedriver.exe that is compatible to your Chrome version and replace the one in /src/test/resources/drivers
+   https://chromedriver.chromium.org/
 
 ## Run Scripts
 * Clone the project and import to eclipse IDE
