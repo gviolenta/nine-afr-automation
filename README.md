@@ -16,7 +16,7 @@ This project is a UI automation solution that will test for the subsciption prom
     
 3. Maven installed in the system
 
-  Reference:  Windows - https://www.youtube.com/watch?v=K9U-5aa8VwE&list=PLhW3qG5bs-L8XkBrI-G5aTUo6QwEEoVcj&index=2
+   Reference:  Windows - https://www.youtube.com/watch?v=K9U-5aa8VwE&list=PLhW3qG5bs-L8XkBrI-G5aTUo6QwEEoVcj&index=2
 
 ## Run Scripts
 * Clone the project and import to eclipse IDE
