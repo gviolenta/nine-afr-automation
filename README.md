@@ -7,8 +7,9 @@ This project is a UI automation solution that will test for the subsciption prom
 #### Pre-requisites
 1. Java installed in the system --> Java JDK 16 is used for this project
  
-    Reference:  Windows - https://www.youtube.com/watch?v=FqpmH8MVO6A&list=PLhW3qG5bs-L_qj1L5hnHvJYeFpQ_g4UuU&index=3&t=115s
-            iOS - https://www.youtube.com/watch?v=NSvtis2fGlA&list=PLhW3qG5bs-L_qj1L5hnHvJYeFpQ_g4UuU&index=4
+    Reference: 
+     Windows - https://www.youtube.com/watch?v=FqpmH8MVO6A&list=PLhW3qG5bs-L_qj1L5hnHvJYeFpQ_g4UuU&index=3&t=115s
+     iOS - https://www.youtube.com/watch?v=NSvtis2fGlA&list=PLhW3qG5bs-L_qj1L5hnHvJYeFpQ_g4UuU&index=4
                 
 2. Eclipse is installed in the system -IDE
 
