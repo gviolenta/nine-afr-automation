@@ -22,4 +22,6 @@ Scenarios:
 16. Verify All Companies link is displayed
 17. Verify Search companies section/component is displayed
 18. Verify company can be searched from search bar
-19. Verify message "Please enter 3 or more characters is displayed when search keyword input character count is less than 3
+19. Verify message "Please enter 3 or more characters" is displayed when search keyword input character count is less than 3
+20. Verify message "No companies found" when input keyword does not match any company.
+21. Verify that the values in the search result dropdown can be selected and will redirect to the company profile page.
